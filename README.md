@@ -63,7 +63,7 @@ https://github.com/sumiitttt11/deepfake-backend
         <sub><b>Sumit Kumawat</b></sub>
       </a>
       <br />
-      🚀 Full Stack Developer
+      💻 Contributor
     </td>
     <td align="center">
       <a href="https://github.com/luckybhupelli6">
