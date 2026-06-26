@@ -4,6 +4,16 @@ This project is a full-stack application that detects deepfakes in images using 
 
 ---
 
+
+## 👥 Contributors
+
+| GitHub | Profile |
+|--------|---------|
+| **Sumit Kumawat** | https://github.com/sumiitttt11 |
+| **Lucky Bhupelli** | https://github.com/luckybhupelli6 |
+
+
+---
 ## 📂 Project Structure
 
 ```text
