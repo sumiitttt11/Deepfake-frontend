@@ -52,7 +52,7 @@ https://github.com/sumiitttt11/deepfake-backend
 
 ---
 
-
+---
 ## 👨‍💻 Contributors
 
 <table>
@@ -76,6 +76,7 @@ https://github.com/sumiitttt11/deepfake-backend
   </tr>
 </table>
 ---
+
 ## ❓ For any Queries
 
 Feel free to reach out:
